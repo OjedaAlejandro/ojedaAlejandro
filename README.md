@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Soy Ojeda Alejandro Ezequiel</h1>
 <h3 align="center">Me dedico al desarrollo web full stack.</h3>
+<br>
 
 - 👨‍💻 Mi Portafolio [https://miportafolioweb-e0a04.web.app/](https://miportafolioweb-e0a04.web.app/)
 
