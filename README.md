@@ -5,7 +5,6 @@
 
 - 👨‍💻 Mi Portafolio: [https://miportafolioweb-e0a04.web.app/](https://miportafolioweb-e0a04.web.app/)
 - 💬 Puedes preguntame sobre **Html,css,js,angular,node js...**
-- 📫 Mi contacto: **alejandroojeda.desarrolloweb@gmail.com**
 
 <h3 align="left">Contactame:</h3>
 
