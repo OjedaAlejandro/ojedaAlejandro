@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Ojeda Alejandro Ezequiel</h1>
 <h3 align="center">Me dedico al desarrollo web full stack.</h3>
 <br>
+<p>Soy Ojeda Ezequiel tengo 18 años y me dedico al desarrollo web full-stack, me encanta crear proyectos y estoy constantemente capacitandome.</p>
 
 - 👨‍💻 Mi Portafolio [https://miportafolioweb-e0a04.web.app/](https://miportafolioweb-e0a04.web.app/)
-
 - 💬 Puedes preguntame sobre **Html,css,js,angular,node js...**
 
 <h3 align="left">Contactame:</h3>
