@@ -1,9 +1,11 @@
 <h1 align="center">Hola 👋, Soy Ojeda Alejandro Ezequiel</h1>
 <h3 align="center">Me dedico al desarrollo web full stack.</h3>
 
-- 💬 Preguntame sobre **Html,css,js,angular,node js...**
+- 👨‍💻 Mi Portafolio [https://miportafolioweb-e0a04.web.app/](https://miportafolioweb-e0a04.web.app/)
 
-- 📫 How to reach me **alejandroojeda.desarrolloweb@gmail.com**
+- 💬 Puedes preguntame sobre **Html,css,js,angular,node js...**
+
+- 📫 Mi contacto **alejandroojeda.desarrolloweb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
